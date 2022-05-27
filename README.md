@@ -3,7 +3,7 @@ Gess pasword with this Python Script, To Use this script, follow this commands :
 
 First Download This Script with : 
 
-    https://github.com.AnkanSaha/Password-Guess
+    https://github.com.AnkanSaha/Password-Guess.git
 
 Then,after download this script, use this command to enter this directory :
 
