@@ -11,7 +11,7 @@ Then,after download this script, use this command to enter this directory :
 
 after this command, run this command to install essential tools :- 
 
-      pip install requirements.txt
+      pip install -r requirements.txt
       
 All Set, now you are ready to use this tool, just enter this command to run the script :- 
 
